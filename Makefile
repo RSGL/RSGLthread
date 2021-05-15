@@ -4,7 +4,7 @@ all:
 	@echo "do 'make update' to update"
 	@echo " "
 	@echo "do 'make remove' to remove"
-        @echo "you may need to update RSGLthread if you ever update RSGL or reinstall/delete"
+	@echo "you may need to update RSGLthread if you ever update RSGL or reinstall/delete"
 
 
 install:
