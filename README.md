@@ -1,7 +1,7 @@
 # RSGLthread
 Single headerfile library for making simple threads, will be multiplatform in the future. Made mainly for RSGL but it can easily be for anything.
 
-how to install (easy) (linux)
+how to install (linux) (make)
 ```
 sudo make install
 ```
